@@ -1,1 +1,1 @@
-# hear-disease-prediction
+# heart-disease-prediction
